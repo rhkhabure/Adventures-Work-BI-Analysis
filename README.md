@@ -53,6 +53,12 @@ The assumptions made in this analysis included the presumption that the currency
 The limitations of this analysis stem from the absence of a clearly defined objective for the dashboard. This lack of clarity hinders the development of insightful and targeted visual representations. As a result, the current dashboard remains somewhat generalised.
 
 
+## You can access the dashboard here
+<iframe title="End sem dashboard" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=c6b70f6b-0ce0-4c0c-9f91-215db5ea2b30&autoAuth=true&ctid=16d83ee6-254a-469d-a6cc-54e2ca2313e7&actionBarEnabled=true&reportCopilotInEmbed=true" frameborder="0" allowFullScreen="true"></iframe>
+
+## Dashboard
+
+
 ## Dashboard 
 
 
