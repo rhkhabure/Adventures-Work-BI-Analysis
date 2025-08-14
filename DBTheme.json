@@ -1,0 +1,39 @@
+{
+  "name": "Bright & Accessible Theme",
+  "dataColors": [
+    "#E69F00",
+    "#56B4E9",
+    "#009E73",
+    "#F0E442",
+    "#0072B2",
+    "#D55E00",
+    "#CC79A7"
+  ],
+  "background": "#2E2E2E",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#56B4E9",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "color": "#FFFFFF",
+            "fontSize": 14,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ],
+        "labels": [
+          {
+            "color": "#FFFFFF",
+            "fontSize": 12
+          }
+        ],
+        "background": [
+          {
+            "color": "#2E2E2E"
+          }
+        ]
+      }
+    }
+  }
+}
